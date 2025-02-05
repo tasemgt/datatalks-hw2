@@ -1,5 +1,8 @@
 # datatalks-hw2
 
+
+Modified Trigger code for Q6
+
 ```
 triggers:
   - id: green_schedule
