@@ -1,6 +1,6 @@
 # datatalks-hw2
 
-`
+```
 triggers:
   - id: green_schedule
     type: io.kestra.plugin.core.trigger.Schedule
@@ -16,4 +16,4 @@ triggers:
     inputs:
       taxi: yellow
 
-`
+```
