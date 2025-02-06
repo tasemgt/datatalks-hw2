@@ -21,5 +21,6 @@ triggers:
 
 ```
 
-Source: https://kestra.io/docs/workflow-components/triggers/schedule-trigger![image](https://github.com/user-attachments/assets/d9843cea-d6d9-40db-9483-d855d912f26b)
+Source: https://kestra.io/docs/workflow-components/triggers/schedule-trigger
+
 
